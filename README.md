@@ -1,4 +1,4 @@
-# Tribute Page
+# Tribute Pages
 
 My responsive and pretty HTML pages with external CSS and JavaScript.
 

@@ -1,0 +1,37 @@
+#main {
+  background-color: beige;
+  font-family: system-ui;
+  text-align: center;
+}
+
+#title {
+  background: peru;
+}
+
+#img-div {
+  background-color: #f3eba5;
+  margin: 100px max-width: relative;
+  display: block;
+}
+
+.pics {
+
+}
+
+#headline {
+  margin-top: 40px;
+}
+
+ul {
+  max-width: 400px list-style-position: inside;
+  margin: 0 auto;
+  text-align: left;
+}
+
+li {
+  margin: 7px
+}
+
+footer {
+  background: peru;
+}
